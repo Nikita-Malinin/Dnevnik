@@ -1,8 +1,13 @@
 <div align="center">
-<font-size="25">
+
+<b>
 ГБПОУ Республики Марий Эл
 <br>
 «Йошкар-Олинский технологический колледж»
+</b>
 </br>
 </div>
-</font>
+<b>
+<center><font size =20>Дневник</font><br>
+<font size=5>учебной практики</font></br>
+</b>
