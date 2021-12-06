@@ -8,6 +8,8 @@
 </br>
 </div>
 <b>
-<center><font size =20>Дневник</font><br>
+<div align="center"><font size =20>Дневник</font><br>
 <font size=5>учебной практики</font></br>
+
 </b>
+</div>
